@@ -1,3 +1,5 @@
+Instructions for connecting to the server
+--------------------------------------------
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Amet facilisis magna etiam tempor. 
 Auctor urna nunc id cursus metus aliquam eleifend mi.
