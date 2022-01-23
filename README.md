@@ -1,8 +1,8 @@
 # fuzzy-waddle
 
-##Repo with demo code for Pluralsight module
+## Repo with demo code for Pluralsight module
 
-##Learning Stuff
+### Learning Stuff
 - All kinds of stuff
 - Important Stuff
 - Useful stuff
