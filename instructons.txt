@@ -5,3 +5,6 @@ Amet facilisis magna etiam tempor.
 Auctor urna nunc id cursus metus aliquam eleifend mi.
 Diam vel quam elementum pulvinar etiam non quam lacus suspendisse. 
 Enim ut sem viverra aliquet eget sit amet tellus.
+
+Troubleshooting
+---------------
